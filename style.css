@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main{
+    display :flex;
+    flex-direction: column;
+}
+.l1w1{
+    font-family: 'Satisfy', cursive;
+}
+.btn{
+    background-color: #C4DFAA;
+    margin: 30px 300px 0 300px;
+    border-radius: 50px;
+    border-style: none;
+    padding: 10px 10px;
+}
